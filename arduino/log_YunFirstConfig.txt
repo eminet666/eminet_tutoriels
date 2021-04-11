@@ -1,0 +1,24 @@
+Hi! Nice to see you!
+I'm your YunShield assistant sketch
+I'll help you configuring your Yun in a matter of minutes
+Let's start by communicating with the Linux processor
+When LED (L13) will light up we'll be ready to go!
+Waiting...
+(in the meanwhile, if you are using the IDE's serial monitor, make sure that it's configured to send a "Newline")
+
+Oops, it seems that you have no WiFi network available
+Let's configure it manually
+SSID of the network you want to connect to: 
+ENSAAMA
+Password for the network you want to connect to: 
+**********
+Encryption (eg WPA, WPA2, WEP): WPA2
+We are almost done! Give a name and a password to your Yun
+Name: Arduino3
+Password: ********
+One last question: where do you live?
+Insert a two letters county code (eg IT, US, DE): FR
+Waiting for the Yun to connect to the network.
+
+Great! You can now reach your Yun from a browser typing http://192.168.240.1
+Press 'Enter' key twice to start a serial terminal
